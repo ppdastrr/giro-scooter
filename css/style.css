@@ -394,11 +394,11 @@ button{cursor: pointer;}
     margin-bottom: 150px;
 }
 .brends span{
-    font-size: 50px;
+    font-size: 47px;
     text-transform: uppercase;
     color: #9B9b9b;
-    font-weight: 700;
     padding-right: 10px;
+    font-weight: 700;
 }
 .info-span{
     font-size: 34px;
